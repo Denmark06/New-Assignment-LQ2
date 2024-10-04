@@ -1,0 +1,7 @@
+A
+let age = 17
+if(age >= 18){
+  console.log("You may now regester as a voter for elections 2025");
+} else {
+  console.log("You are too young register asa voter for elections 2025");
+}
