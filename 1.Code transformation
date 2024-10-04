@@ -4,4 +4,8 @@ let age = 18
 let message = genAverage >= 83 && age >= 18 ? "You may enter college, under BSCS program" : "Both condition may not have not met and not allowed to enroll";
 console.log(message);
 
-B
+B. 
+let grade = 79
+let subject = "DSA"
+let message = grade >= 80 && subject === "DSA" ? "You may enroll Application Development" : "You have to enroll DSA and pass to enroll AD and Math 101 and pass to Enroll Calculus.";
+console.log(message);
