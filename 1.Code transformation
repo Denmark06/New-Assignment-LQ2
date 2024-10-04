@@ -1,0 +1,7 @@
+A. 
+let genAverage = 85
+let age = 18
+let message = genAverage >= 83 && age >= 18 ? "You may enter college, under BSCS program" : "Both condition may not have not met and not allowed to enroll";
+console.log(message);
+
+B
