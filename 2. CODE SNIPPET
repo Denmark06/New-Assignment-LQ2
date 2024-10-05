@@ -1,6 +1,6 @@
-username = input("Register your Username");
-password = input("Register your passwcode");
-re_password = input("Re-enter your passcode");
+let username = prompt("Register your Username");
+letpassword = prompt("Register your passwcode");
+re_password = prompt("Re-enter your passcode");
 if(Password == Re_password) {
   console.log("Thank you for registering");
   username = prompt("Username:");
