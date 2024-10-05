@@ -1,0 +1,18 @@
+username = input("Register your Username");
+password = input("Register your passwcode");
+re_password = input("Re-enter your passcode");
+if(Password == Re_password) {
+  console.log("Thank you for registering");
+  username = prompt("Username:");
+  if(username == username){
+    password = prompt("Password:");
+    if(Password == Password);
+ ? console.log("Welcome to DSA +"Username");
+  console.lo("Incorrect Password, Re-run the code!");
+  }
+  else {
+    console.log("Incorrect Username, Re-run the code! ");
+  } 
+  else {
+    console.log("Password does not Match, Re-run the code! ");
+  }
