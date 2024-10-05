@@ -1,0 +1,13 @@
+const name = prompt("Enter your name:");
+const address = prompt("Enter your address:");
+const age = parseInt(prompt("Enter your age:"));
+const classRole = prompt("Enter your class role (Officer, Student, Teacher):");
+const course = prompt("Enter your course (BSCS, BSM, BAEL):");
+
+if (course === "BSCS" || course === "BSM" || course === "BAEL") {
+  for (let i = 0; i < age / 4; i++) {
+    console.log(name);
+  }
+} else {
+  console.log("Invalid course.");
+}
